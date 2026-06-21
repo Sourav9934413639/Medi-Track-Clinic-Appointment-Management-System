@@ -1,0 +1,3 @@
+id,patientId,doctorId,appointmentDate,status,reason
+A1002,P1002,D1003,2016-02-08,CANCELLED,Headache
+A1001,P1001,D1002,1992-10-06,PENDING,Sugar
